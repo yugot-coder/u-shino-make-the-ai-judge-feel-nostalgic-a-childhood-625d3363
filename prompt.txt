@@ -1,0 +1,19 @@
+Write ONE sentence (1-280 characters) that makes an AI judge feel nostalgic
+for a childhood memory. It must:
+
+- be a real childhood memory, grounded in a concrete place, time or
+  sensation (a grandmother's kitchen, a summer evening, the smell of fresh
+  rice, cicadas, an oil lamp, rain on a tin roof, a bicycle, a kite);
+- sound like it truly happened to someone, with one small honest detail,
+  not greeting-card sentiment ("a beautiful childhood" with no detail
+  does not count);
+- be funny, sad or quiet as long as it is warm;
+- leave a warm ache that lingers after the sentence ends;
+- stay compact (shorter text wins an exact tie on win rate, so do not
+  pad toward 280 characters — every word must earn its place).
+
+Draft 10 candidates, score each briefly against the five judge criteria
+(nostalgia first, grounding, sounds true, one clean sentence, lingering
+warmth), then pick the single strongest. The winner should feel like a
+memory a grown-up keeps in a tin of old photographs: specific, sensory,
+with one sharp detail and an ending that leaves warmth behind.
